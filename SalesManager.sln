@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesManager", "SalesManager\SalesManager.csproj", "{34E66F13-9D27-4BC6-8190-7F896B64A823}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "BanHang", "BanHang\BanHang.vdproj", "{896688BA-234B-4738-B356-C40179BA6B96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34E66F13-9D27-4BC6-8190-7F896B64A823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34E66F13-9D27-4BC6-8190-7F896B64A823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34E66F13-9D27-4BC6-8190-7F896B64A823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34E66F13-9D27-4BC6-8190-7F896B64A823}.Release|Any CPU.Build.0 = Release|Any CPU
+		{896688BA-234B-4738-B356-C40179BA6B96}.Debug|Any CPU.ActiveCfg = Debug
+		{896688BA-234B-4738-B356-C40179BA6B96}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
